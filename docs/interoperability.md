@@ -25,7 +25,7 @@ These agents work together to enable seamless integration, control, and optimiza
 
 ![alt text](image-3.png)
 
-*FigureA suite of open-source VOLTTRON agents for an interoperable framework, where the interoperability agent translates IEC 61850-7-420 data models into a common format, aligning them with the correct point names in protocols based on the IEEE 1547 standard. It supports communication standards such as SunSpec Modbus, IEEE 1815.2, and IEEE 2030.5.*
+*Figure A suite of open-source VOLTTRON agents for an interoperable framework, where the interoperability agent translates IEC 61850-7-420 data models into a common format, aligning them with the correct point names in protocols based on the IEEE 1547 standard. It supports communication standards such as SunSpec Modbus, IEEE 1815.2, and IEEE 2030.5.*
 
 For more information and experimentation results, read the article: [Interoperable Energy Storage Control and Communication Framework Development](https://ieeexplore.ieee.org/abstract/document/10891219)
 
